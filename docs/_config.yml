@@ -251,7 +251,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _portfolio
+  # _sdcnd
   - scope:
       path: ""
       type: portfolio
