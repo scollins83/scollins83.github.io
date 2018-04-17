@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Pexels**](https://www.pexels.com/photo/sparkler-new-year-s-eve-sylvester-sparks-38196/)"
 excerpt: "Forging a path through machine learning, data science, and creativity."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Forging a path through machine learning, data science, and creativity. Centered with `type="center"`'
 ---
 
-# Here it is!!!
+# Blog and Portfolio
