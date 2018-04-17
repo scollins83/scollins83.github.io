@@ -1,7 +1,7 @@
 ---
 title: "Sara Collins - Data Scientist"
 layout: splash
-permalink: /splash-page/
+permalink: /landing-page/
 date: 2018-04-16T11:48:41-04:00
 header:
   overlay_color: "#000"
