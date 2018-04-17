@@ -1,5 +1,5 @@
 ---
-title: "Self-Driving Car: Behavioral Cloning Project"
+title: "Self-Driving Car: Advanced Lane Finding"
 categories:
   - Self-Driving Car
 tags:
@@ -8,4 +8,4 @@ tags:
 link: https://github.com/scollins83/CarND-Advanced-Lane-Lines/blob/master/README.md
 ---
 
-Here is the [project writeup](#) for Udacity's Self-Driving Car Nanodegree Term 1 project, **Behavioral Cloning**.
+Here is the [project writeup](#) for Udacity's Self-Driving Car Nanodegree Term 1 project, **Advanced Lane Finding**.
