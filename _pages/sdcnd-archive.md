@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_sdcnd`.
+Projects completed for Udacity's Self-Driving Car Engineer Nanodegree.
