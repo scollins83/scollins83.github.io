@@ -256,7 +256,7 @@ compress_html:
 
 # Collections
 collections:
-  portfolio:
+  sdcnd:
     output: true
     permalink: /:collection/:path/
 
@@ -277,9 +277,12 @@ defaults:
 
   # _sdcnd
   - scope:
-      path: ""
+      path: "_sdcnd"
       type: sdcnd
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: false
       share: true
+      related: true

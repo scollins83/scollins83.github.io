@@ -10,7 +10,7 @@ header:
   cta_label: "GitHub Repository"
   cta_url: "https://github.com/scollins83"
   caption: "Photo credit: [**Pexels**](https://www.pexels.com/photo/sparkler-new-year-s-eve-sylvester-sparks-38196/)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Forging a path through machine learning, data science, and creativity."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 ---
