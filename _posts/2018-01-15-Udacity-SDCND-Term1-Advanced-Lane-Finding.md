@@ -5,6 +5,7 @@ categories:
 tags:
   - Udacity
   - Self-Driving Car
+  - Python
 link: https://github.com/scollins83/CarND-Advanced-Lane-Lines/blob/master/README.md
 ---
 

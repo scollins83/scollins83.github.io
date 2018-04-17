@@ -5,6 +5,7 @@ categories:
 tags:
   - Udacity
   - Self-Driving Car
+  - Python
 link: https://github.com/scollins83/CarND-Behavioral-Cloning-P3/blob/master/README.md
 ---
 
