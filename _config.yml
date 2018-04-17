@@ -21,9 +21,9 @@ title_separator          : "-"
 name                     : "Sara Collins"
 description              : "Data Scientist who makes machine learning models, particularly for signal processing and NLP."
 url                      : "https://scollins83.github.io"
-baseurl                  : "/repo"
+baseurl                  : "/"
 repository               : "scollins83/scollins83.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/bridge-daylight-environment-117843.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
