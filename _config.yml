@@ -134,6 +134,7 @@ include:
   - .htaccess
   - _pages
   - _posts
+  - _sdcnd
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -253,6 +254,12 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -267,3 +274,12 @@ defaults:
       comments: false
       share: true
       related: true
+
+  # _sdcnd
+  - scope:
+      path: ""
+      type: sdcnd
+    values:
+      layout: single
+      author_profile: true
+      share: true
