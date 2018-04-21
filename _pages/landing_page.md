@@ -10,7 +10,7 @@ header:
   cta_label: "GitHub Repository"
   cta_url: "https://github.com/scollins83"
   caption: "Photo credit: [**Pexels**](https://www.pexels.com/photo/sparkler-new-year-s-eve-sylvester-sparks-38196/)"
-excerpt: "Forging a path through machine learning, data science, and creativity."
+excerpt: "Forging a path through machine learning, data science, and artistry."
 intro: 
   - excerpt: 'Forging a path through machine learning, data science, and creativity. Centered with `type="center"`'
 ---
