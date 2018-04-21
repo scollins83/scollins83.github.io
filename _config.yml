@@ -260,6 +260,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  deeplearningnd:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -279,6 +283,18 @@ defaults:
   - scope:
       path: "_sdcnd"
       type: sdcnd
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+  # _deeplearningnd
+  - scope:
+      path: "_deeplearningnd"
+      type: deeplearningnd
     values:
       layout: single
       author_profile: true
