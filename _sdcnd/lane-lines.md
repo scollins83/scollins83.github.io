@@ -7,4 +7,3 @@ header:
 ---
 
 Lane Line Detection project writeup is here: [README](https://github.com/scollins83/CarND-LaneLines-P1/blob/dev/writeup.md)
-{% include gallery caption="This is a sample gallery to go along with this case study." %}

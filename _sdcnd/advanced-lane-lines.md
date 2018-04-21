@@ -7,5 +7,3 @@ header:
 ---
 
 Advanced Lane Finding project writeup is here: [README](https://github.com/scollins83/CarND-Advanced-Lane-Lines/blob/master/README.md)
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-``

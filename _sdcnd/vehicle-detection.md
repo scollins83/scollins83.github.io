@@ -7,4 +7,3 @@ header:
 ---
 
 Vehicle Detection project writeup is here: [README](https://github.com/scollins83/CarND-Vehicle-Detection/blob/master/README.md)
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
