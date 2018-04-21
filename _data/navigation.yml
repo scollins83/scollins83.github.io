@@ -8,5 +8,5 @@ main:
   #   url: /year-archive/
   - title: "Udacity - SDCND"
     url: /sdcnd/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Udacity - DLND"
+    url: /deeplearningnd/
