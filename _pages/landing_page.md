@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/aerial-cars-daytime-808910.jpg
   cta_label: "Projects"
-  cta_url: "https://github.com/scollins83"
+  cta_url: "/projects/"
   caption: "Photo credit: [**Pexels**](https://www.pexels.com/photo/sparkler-new-year-s-eve-sylvester-sparks-38196/)"
 excerpt: "Forging a path through machine learning, data science, and artistry."
 intro: 
