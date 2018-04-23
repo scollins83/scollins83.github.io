@@ -6,10 +6,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  - title: "Udacity - SDCND"
-    url: /sdcnd/
-  - title: "Udacity - DLND"
-    url: /deeplearningnd/
+  - title: "Projects"
+    url: /projects/
 
 projects:
     - title: "Udacity"
