@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Projects completed for Udacity's Self-Driving Car Engineer Nanodegree.
+Projects completed and WIP for Udacity's Self-Driving Car Engineer Nanodegree.
