@@ -12,13 +12,10 @@ main:
     url: /deeplearningnd/
 
 projects:
-  - title: "Projects"
-    url: /projects/
-    children:
-      - title: "Udacity"
-        url: /projects/udacity/
-        children:
-          - title: "Self-Driving Car Engineer Nanodegree"
-            url: /sdcnd/
-          - title: "Deep Learning Foundations Nanodegree"
-            url: /deeplearningnd/
+    - title: "Udacity"
+      url: /projects/
+      children:
+        - title: "Self-Driving Car Engineer Nanodegree"
+          url: /sdcnd/
+        - title: "Deep Learning Foundations Nanodegree"
+          url: /deeplearningnd/
