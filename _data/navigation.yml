@@ -16,3 +16,15 @@ projects:
           url: /sdcnd/
         - title: "Deep Learning Foundations Nanodegree"
           url: /deeplearningnd/
+
+    - title: "Hobby"
+      children:
+        - title: "Teal Deer"
+          url: https://github.com/scollins83/teal_deer
+
+    - title: "Kaggle"
+      children:
+        - title: "2016 Presidential Debate Transcript Analysis"
+          url: https://www.kaggle.com/scollins/presidential-debate-analysis
+        - title: "Game of Thrones Battle Graph Analysis"
+          url: https://www.kaggle.com/scollins/got-battle-network-graph-and-other-eda
