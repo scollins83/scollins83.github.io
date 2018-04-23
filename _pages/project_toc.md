@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Projects"
+title: "Projects"
 permalink: /projects/
 ---
 {% include toc %}
@@ -17,3 +17,5 @@ Projects from the [Deep Learning Foundations Nanodegree](/deeplearningnd/)
   
 ## Quilting and Embroidery Projects  
 Coming soon
+
+{% include nav_list nav="projects" %}
