@@ -14,5 +14,3 @@ excerpt: "Forging a path through machine learning, data science, and artistry."
 intro: 
   - excerpt: 'Forging a path through machine learning, data science, and artistry. Centered with `type="center"`'
 ---
-
-# Blog and Portfolio
