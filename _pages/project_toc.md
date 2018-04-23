@@ -10,12 +10,3 @@ toc: true
 toc_label: "Machine Learning Projects"
 toc_icon: "chart-bar"
 ---
-
-### Machine Learning Projects
-
-| Machine Learning Projects |
-|:-------------------------:|
-| Udacity |
-| * Self-Driving Car Engineer Nanodegree |
-| * Deep Learning Foundations Nanodegree |
-{: rules="groups"}
