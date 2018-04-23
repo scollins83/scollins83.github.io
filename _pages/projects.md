@@ -1,10 +1,8 @@
 ---
 title: "Projects"
 permalink: /projects/
-toc: true
-toc_label: "Machine Learning Projects" 
-toc_icon: "chart-bar"
 ---
+{ % include toc icon="chart-bar" title="Machine Learning Projects" %}
 ## Machine Learning Projects  
 ### Udacity Nanodegrees  
 #### Self-Driving Car Engineer  
