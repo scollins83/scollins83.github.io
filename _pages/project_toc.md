@@ -11,11 +11,18 @@ toc_label: "Machine Learning Projects"
 toc_icon: "chart-bar"
 ---
 
-# Machine Learning Projects  
+# Machine Learning Projects 
+Projects using Machine Learning, for learning and hobbies. 
   
 ## Udacity  
+Projects through [Udacity](https://www.udacity.com)  
+  
 ### Self-Driving Car Engineer Nanodegree  
-### Deep Learning Foundations Nanodegree
+Projects from the [Self-Driving Car Engineer Nanodegree](/sdcnd/)  
+
+### Deep Learning Foundations Nanodegree  
+Projects from the [Deep Learning Foundations Nanodegree](/deeplearningnd/)  
 
   
 # Quilting and Embroidery Projects  
+Coming soon
