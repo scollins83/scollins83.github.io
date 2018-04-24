@@ -1,5 +1,5 @@
 ---
-title: "Extended Kalman Filters"
+title: "Term 2 - Project 1: Extended Kalman Filters"
 excerpt: "Extended Kalman Filters Project -  Using radar and lidar sensors to estimate path of another object."
 header:
   image: /assets/images/EKF_banner.jpg

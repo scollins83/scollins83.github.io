@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Detection"
+title: "Term 1 - Project 5: Vehicle Detection"
 excerpt: "Vehicle Detection Project -  Support Vector Machine model using Histogram of Gradients and Computer Vision methods to detect vehicles in a roadway from camera images."
 header:
   image: /assets/images/vehicle_detection_banner.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Behavioral Cloning"
+title: "Term 1 - Project 3: Behavioral Cloning"
 excerpt: "Behavioral Cloning Project - Deep learning regressor, which learns the steering angle of a vehicle based on three camera vantage points."
 header:
   image: /assets/images/automobile-automotive-autumn-banner.jpg

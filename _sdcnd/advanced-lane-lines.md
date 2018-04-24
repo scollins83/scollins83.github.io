@@ -1,5 +1,5 @@
 ---
-title: "Advanced Lane Finding"
+title: "Term 1 - Project 4: Advanced Lane Finding"
 excerpt: "Advanced Lane Finding Project -  One-Dimensional Convolution Methods for Detection of Lane Lines on Roads Which Curve."
 header:
   image: /assets/images/adv_lane_finding_banner.jpg

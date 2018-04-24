@@ -1,5 +1,5 @@
 ---
-title: "Traffic Sign Classifier"
+title: "Term 1 - Project 2: Traffic Sign Classifier"
 excerpt: "Traffic Sign Classifier Project - TensorFlow Multiclass Classifier to Classify Traffic Sign Images"
 header:
   image: /assets/images/traffic_sign_classifier_banner.jpg
