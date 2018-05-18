@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/language_translation.jpg
 ---
 
-This codebase was made in order to improve the code in the [Udacity Deep Learning Foundations Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) program so it could
+This codebase was made in order to improve my code from the [Udacity Deep Learning Foundations Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) program so it could
 run as a command-line application rather than as a Jupyter notebook, with unit testing.  
   
 By doing this, I was able to do a comparison of this particular language translation model to a more fully featured model. 
