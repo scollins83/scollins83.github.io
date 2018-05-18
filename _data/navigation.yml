@@ -19,6 +19,8 @@ projects:
 
     - title: "Hobby"
       children:
+        - title: "Language Translation Comparison"
+          url: /hobby/
         - title: "Teal Deer"
           url: https://github.com/scollins83/teal_deer
 

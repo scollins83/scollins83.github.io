@@ -135,6 +135,8 @@ include:
   - _pages
   - _posts
   - _sdcnd
+  - _deeplearningnd
+  - _hobby
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -264,6 +266,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  hobby:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -295,6 +301,18 @@ defaults:
   - scope:
       path: "_deeplearningnd"
       type: deeplearningnd
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+  # _hobby
+  - scope:
+      path: "_hobby"
+      type: hobby
     values:
       layout: single
       author_profile: true
