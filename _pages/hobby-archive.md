@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Projects completed and WIP done as part of hobbys and for fun.
+Projects completed and WIP done as part of hobbies and for fun.
