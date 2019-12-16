@@ -10,7 +10,7 @@ header:
   cta_label: "Projects"
   cta_url: "/projects/"
   caption: "Photo credit: [**Pexels**](https://www.pexels.com/photo/sparkler-new-year-s-eve-sylvester-sparks-38196/)"
-excerpt: "Machine Learning - Data Science - Artistry"
+excerpt: "Machine Learning - Data Science"
 intro: 
   - excerpt: 'Machine Learning - Data Science - Artistry. Centered with `type="center"`'
 ---
