@@ -6,4 +6,4 @@ header:
   teaser: /assets/images/traffic_sign.jpg
 ---
 
-Traffic Sign Classifier project writeup is here: [README](https://github.com/scollins83/CarND-LaneLines-P1/blob/dev/writeup.md)
+Traffic Sign Classifier project writeup is here: [README](https://github.com/scollins83/CarND-Traffic-Sign-Classifier-Project/blob/master/README.md)
